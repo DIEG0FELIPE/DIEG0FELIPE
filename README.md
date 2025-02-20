@@ -17,9 +17,11 @@ Soy Diego Solórzano, estudiante de Ingeniería de Sistemas y Computación en la
 <img src = 'https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683' height='30'/>  
 <img src = 'https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' height='30'/> 
 <img src = 'https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white' height='30'/> 
+<img src = 'https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' height='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
+<img src = 'https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white' height='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 <img src = 'https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white' height='30' width = '100'/> 
@@ -39,5 +41,9 @@ Soy Diego Solórzano, estudiante de Ingeniería de Sistemas y Computación en la
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/diegofelipe.8/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:diegosolorzanoyt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram" height="50" width="72" />
   </a>
 </p>
